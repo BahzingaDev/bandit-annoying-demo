@@ -48,7 +48,7 @@ jobs:
       # Step 4: Debug – list repository files
       # Optional but useful to verify files exist in runner
       # --------------------------------------------------------
-      - name: Debug – list repository files
+      - name: Debug - list repository files
         run: |
           ls -R
 
